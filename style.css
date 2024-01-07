@@ -7,6 +7,10 @@
     font-family: 'Press Start 2P', cursive;
 }
 
+span {
+    color: red;
+}
+
 .logo {
     font-family: 'Press Start 2P', cursive;
     line-height: 25px;

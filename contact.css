@@ -10,6 +10,10 @@ p {
     color: #aaa;
 }
 
+span {
+  color: red;
+}
+
 img {
     max-height: 44vh;
 }
