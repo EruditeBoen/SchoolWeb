@@ -27,6 +27,11 @@ body {
     animation: open 1s ease-in-out forwards;
 }
 
+span {
+    color: #f6c65f;
+    font-weight: bold;
+}
+
 .open .layer:nth-child(1) {
     background: #405269;
     z-index: 2;
